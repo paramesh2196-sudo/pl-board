@@ -1,0 +1,4 @@
+from scrapers.jobspy_scraper import JobSpyScraper
+from scrapers.timesjobs_scraper import TimesJobsScraper
+from scrapers.freshersworld_scraper import FreshersworldScraper
+from scrapers.internshala_scraper import IntershalaScraper

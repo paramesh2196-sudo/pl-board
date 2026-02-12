@@ -1,0 +1,14 @@
+fastapi
+uvicorn[standard]
+gunicorn
+sqlalchemy
+psycopg2-binary
+pydantic
+apscheduler
+python-jobspy>=1.1.0
+pandas
+fake-useragent
+python-dotenv
+requests
+beautifulsoup4
+lxml
